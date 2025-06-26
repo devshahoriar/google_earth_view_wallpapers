@@ -7,6 +7,8 @@
 
 This is a powerful TypeScript utility that automatically downloads high-quality Earth imagery from Google's Pretty Earth data collection. Perfect for creating stunning wallpaper collections, design projects, or simply appreciating our beautiful planet! 🌎
 
+![img1](/img1.png "img1")
+
 ## 🔥 Features
 
 - 🎯 **Batch Processing** - Downloads images in efficient batches of 20
@@ -91,3 +93,7 @@ If this project helped you create amazing wallpaper collections, give it a star!
 ---
 
 **Happy downloading!** 🎉 May your desktop be forever beautiful! 🖥️✨
+
+Sample1             |  Sample2    
+:-------------------------:|:-------------------------:
+![](/img2.png)  |  ![](/img3.png)
